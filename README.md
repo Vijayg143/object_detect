@@ -22,6 +22,9 @@ ros2 run object_detect camera_publisher
 # Start Object Detector
 ros2 run object_detect object_detector
 
+<img width="1920" height="1080" alt="Screenshot from 2026-02-12 16-02-47" src="https://github.com/user-attachments/assets/338c5c44-3ca5-4e19-956a-137e85ca4464" />
+
+
 # YOLO Model :- yolov8m.pt
 # Why Medium Model?
  - Better accuracy than nano model
